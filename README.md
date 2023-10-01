@@ -21,3 +21,6 @@ vegetables, customer, delivery address. It tracks all the details about the deli
 order.
 In this system the admin has all the permission or power to access and use the system
 while on other hand members has limited access to the system or the application.
+
+Home Page
+![image](https://github.com/steverot369/online-paper-bag/assets/136913603/d10f11fe-c077-486c-8e27-a0ab35f68738)
